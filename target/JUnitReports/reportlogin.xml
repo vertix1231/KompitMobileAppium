@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="69.181">
+    <testcase classname="Login Kompit" name="as user want to login to kompit app" time="67.095">
+        <system-out>
+            <![CDATA[Given Go to Contacts App....................................................passed
+When Click join button......................................................passed
+When input name "qastaging_kompit_000" and password "secret123".............passed
+Then click login button.....................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

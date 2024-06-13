@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="51.336">
+    <testcase classname="BD - Event Management" name="create event by completing all of the field" time="50.696">
+        <system-out>
+            <![CDATA[Given Go to Contacts App....................................................passed
+When Click join button......................................................passed
+When input name "qastaging_kompit_000" and password "secret123".............passed
+Then click login button.....................................................passed
+Given click bussiness dashboard at profile icon to access event management..passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
